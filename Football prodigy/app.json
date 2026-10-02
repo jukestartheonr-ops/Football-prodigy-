@@ -1,0 +1,14 @@
+{
+  "expo": {
+    "name": "Football Probability",
+    "slug": "football-probability",
+    "version": "0.1.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "scheme": "footballprobability",
+    "plugins": ["expo-router"],
+    "android": {
+      "package": "com.stevex.footballprobability"
+    }
+  }
+}
